@@ -114,7 +114,7 @@ This scenario was selected due to its relevance and simplicity, ensuring it can 
 ## Application Screenshots
 
 **Login Screen**  
-The entry point of the application.
+The entry point of the application. Unauthorized access to the dashboard is restricted.
 
 **Dashboard**  
 Provides navigation options for all functionalities.
