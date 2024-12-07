@@ -116,20 +116,32 @@ This scenario was selected due to its relevance and simplicity, ensuring it can 
 **Login Screen**  
 The entry point of the application. Unauthorized access to the dashboard is restricted.
 
+![Screenshot 2024-12-07 135115](https://github.com/user-attachments/assets/11e2c5a7-20a2-444c-b2df-ab4631e52b35)
+
 **Dashboard**  
 Provides navigation options for all functionalities.
+
+![Screenshot 2024-12-07 135134](https://github.com/user-attachments/assets/8b946955-ff1f-421b-b53b-0bcf995b00de)
 
 **Add Book Screen**  
 Allows librarians to add new books to the system.
 
+![Screenshot 2024-12-07 135140](https://github.com/user-attachments/assets/fb89375f-0514-4de6-bc07-bb8561f131c3)
+
 **View Books Screen**  
 Displays a list of all books and their statuses.
+
+![Screenshot 2024-12-07 135145](https://github.com/user-attachments/assets/dc5041c0-99a5-443b-949d-d66e824d0b07)
 
 **Borrow Book Screen**  
 Lists only available books and allows borrowing.
 
+![Screenshot 2024-12-07 135149](https://github.com/user-attachments/assets/75bd55a3-26b5-488e-bb51-e688f8b25a1c)
+
 **Return Book Screen**  
 Lists only borrowed books and allows returning.
+
+![Screenshot 2024-12-07 135154](https://github.com/user-attachments/assets/2c83d42b-c0b1-435a-a499-6ccc703efb99)
 
 ---
 
